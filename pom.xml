@@ -12,7 +12,7 @@
   
   
   <dependencies>
-  <!--commmon的包 -->
+  <!--commmon的的包 -->
 		<!-- 时间操作组件 -->
 		<dependency>
 			<groupId>joda-time</groupId>
