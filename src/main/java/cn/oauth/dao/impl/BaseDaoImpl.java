@@ -12,7 +12,7 @@ import java.util.List;
  * Created by Administrator on 2014/7/23.
  */
 @Repository
-public   class BaseDaoImpl <T>extends SqlSessionDaoSupport {
+public class BaseDaoImpl <T>extends SqlSessionDaoSupport {
 
     @Resource
     public void setSqlSessionFactory(SqlSessionFactory sqlSessionFactory) {
